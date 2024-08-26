@@ -1,0 +1,235 @@
+# Question 1 Task 1: 
+Clear and concise Instructions:
+  Provide straightforward instructions to guide users through registration process.
+  Use tooltips to offer additional information without cluttering the form.
+
+Logical Flow and Grouping:
+  Group related fields together (example, personal information, product details).
+  Follow a logical sequence that users can easily follow.
+
+Minimal Required Fields:
+  Only ask for essential information to reduce user effort and form abandonment.
+  use optional fields for additional, non-critical information.
+
+User-Friendly Input Fields:
+  Use appropriate input type(example, date pickers, dropdowns, checkboxes).
+  Ensure fileds are clearly labeled and provide examples where necessary.
+
+Responsive Design:
+  Ensure the form is mobile-friendly and adapts to different screen sizes.
+  Use large touche targets for mobile users.
+
+Real-Time Validation:
+  provide immediate feedback on input errors to prevent user frustration.
+  Highlight errors clearly and offer suggestions for correction.
+
+Progress Indicators:
+  Use progress bars and step indicators for multi-page forms to show users their progrss.
+  allow users to save progress and return later if the form is lengthy.
+
+Privacy and Security Assurance:
+  Clearly Communicate how user data will be used and protected.
+  include links to privacy policies and terms of service
+
+Confirmation and Feedback:
+  Provide a confirmation message or email upon sucessful registration.
+  offer a summary of the submitted information for user review.
+
+Acessibility Considerations:
+  Ensure the form is acessible to users with disabilities(example, screen reader compatibility, keyboard navigation).
+  Use high-contrast colors and readable fonts.
+  identified user pain points.
+
+Overlay Complex Forms:
+  User may abondon forms that are too long or compilicated.
+  simplify the form and break it into manageable sections if necessary.
+
+Lack of Clarity:
+  ambigous filed labels or instructions can confuse users.
+  Ensure all fields are clearly labeled and provide context where needed.
+
+Poor Mobile Experiance:
+  forms that are not optimized for mobile devices can frustrate users.
+  Ensure the form is responsive and easy to navigate on smaller screens.
+
+Slow Load Times:
+  forms that take too long to loead can lead to user drop-off.
+  optimize form performance to ensure quick laod times.
+
+Inadequate Error Handling.
+  user may become frustrated if errors are not clearly indicated or if they have re-enter information.
+  provide clear,real-time error message and retain user input where possible.
+
+Lack of Progress Indicators:
+  user may feel uncertian about how much longer the form will take to compelete.
+  use progress indicators to keep users informed.
+
+Privacy Concerns:
+  user may be hesitant to provide personal information if they are unsure how it will be used.
+  clearly communicate data usage and provide assurances of privacy and security.
+
+No Confirmation or Feedback:
+  user may be unsure if their registration was sucessful without a confirmation message.
+  always provide immediate feedback upon form submission.
+  pertinent information for registering baked goods.
+
+Personal Information:
+ Name
+ Email Address
+ Phone number
+
+Product Detials:
+  Product Name
+  Description
+  Ingredients List
+  Allergen Information
+  Category(example, cakes, cookies, bread)
+
+Price
+  
+Question 1 Task2 :
+Step by step guide to create creating low-fidelity wireframes in figma
+  1. Set Up Your Figma File
+  Open Figma and create a new file
+  creat a new frame that represents the screen size you are designing for(example, Desktop: 1440x1024)
+
+  2. Define the Basic Structure
+  Header: Add a rectangle at the top for the header. This could include the company logo and navigation link.
+  Main Content Area: Below the header, create a larger rectangle that will contain the main content of the registration form.
+  3. Add Form Title
+  Inside the main content area, add a text box at the top center or left that says"Product Registration"
+  4. Form Fields Layout
+  Product Information Section:
+  Add a text label for "Product Information"
+
+  Create rectangles for input fields:
+  Product Name
+  Product Model
+  Serial Number 
+  Parchase Date
+  Place of Purchase
+
+  User Information Section:
+  Add a text label for "User Information"
+  Create rectangles for input fields:
+  First Name
+  Last Name
+  Email Address
+  Phone Number
+  Address
+
+  5. Submit Button
+  Add a large rectangle at the bottom of the form for the "Submit" button.
+  Label it with text"Submit"
+
+  6. Optional Elements:
+  Help/Support Link: Add a small text link at the bottom of the form for "needed Help" or "Contact Support".
+  Privacy Policy: Add a small text link for "Privacy Policy" near the submit button.
+
+  7. Spacing and Alignment
+  Ensure consistent spacing between form fields.
+  Align all input fields and labels properly for a clean look.
+  Use simple lines or rectangles to separate defferent sections if needed
+
+  ------------------------------------------------------------------------
+  | Header: [Company Logo] [Nav Link 1] [Nav Link 2]                      |
+  -----------------------------------------------------------------------
+  |                                                                       |
+  |  Product Registration                                                   |
+  |                                                                       |
+  |  Product Information                                                    |
+  |  [Product Name Input Field]                                           |
+  |  [Product Model Input Field]                                          |
+  |  [Serial Number Input Field]                                          |
+  |  [Purchase Date Input Field]                                          |
+  |  [Place of Parchase Input Field]                                      |
+  |                                                                       |
+  |  User Information                                                       |
+  |  [First Name Input Field]                                             |
+  |  [Last Name Input Field]                                              |
+  |  [Email Address Input Field]                                          |
+  |  [Phone Number Input Field]                                           |
+  |  [Street Address Input Field]                                         |
+  |  [City Input Field]                                                   |
+  |  [State Input Field]                                                  |
+  |  [Zip Code Input Field]                                               |
+  |                                                                       |
+  |  [Submit Button]                                                      |
+  |                                                                       |
+  |  [Need Help?] [Privacy Policy]                                        |
+  -----------------------------------------------------------------------
+
+  # Question 1 Task 3:
+Best Practices in Product Registration Design
+
+Minimal Input Fields:
+  Limit the number of fields to essential information.
+Clear Instructions: 
+  use conscise lables and provide examples where necessary
+Progress Indicators:
+  show users where they are in the registration process.
+Mobile Responsiveness: Ensure the design is user-friendly on mobile devices.
+Error Prevention: use real-time validation to prevent errors before submission.
+Visual Appeal: Incorporate brand colors and images to create an inviting atmospher.
+
+User Pain Points
+overwhelming Forms: Long and complex forms can deter users.
+Confusing Navigation: Poorly structured pages can lead to user frustration.
+Lack of feedback: User often want immediate feedback on their input.
+Poor Mobile Experience: Filling out forms that aren't mobile-frendly can be challenging.
+
+Wireframe Elements
+1. Header: Brand logo and navigation links.
+2. Product Information Section:
+
+Product Name
+Product Category(dropdown)
+Purchase Date(date picker)
+
+3. User Information Section:
+Name
+Eamil Address
+Phone Number
+
+4. Submit Button: Clearly labeled for simple submission.
+5. Progress Bar: Indicating the steps in the registration process.
+
+Wireframe Layouts
+1. Wireframe 1: Single-step registration with all fields visible.
+Wireframe2: Multi-step registration to break down the process(example, Product Info ->User Info ->Confirmation)
+
+Prototype Development
+1. Branding: Use the bakery's color palette, fonts, and logo.
+2. UI Elements:
+Input fields with clear labels.
+Drop-down menus for categories.
+Date picker for the purchase date.
+Prominent call-to-action buttons.
+
+3. Visual Enhancemnts:
+Use backgound images of baked goods to create a cozy atmospher.
+Place icons adjacent to input fields to enhance understanding.
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
